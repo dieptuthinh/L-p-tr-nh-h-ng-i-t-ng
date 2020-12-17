@@ -1,0 +1,7 @@
+D:\LTHDT_LAB3\LTHDT_LAB3\bin\Debug\LTHDT_LAB3.exe.config
+D:\LTHDT_LAB3\LTHDT_LAB3\bin\Debug\LTHDT_LAB3.exe
+D:\LTHDT_LAB3\LTHDT_LAB3\bin\Debug\LTHDT_LAB3.pdb
+D:\LTHDT_LAB3\LTHDT_LAB3\obj\Debug\LTHDT_LAB3.csprojAssemblyReference.cache
+D:\LTHDT_LAB3\LTHDT_LAB3\obj\Debug\LTHDT_LAB3.csproj.CoreCompileInputs.cache
+D:\LTHDT_LAB3\LTHDT_LAB3\obj\Debug\LTHDT_LAB3.exe
+D:\LTHDT_LAB3\LTHDT_LAB3\obj\Debug\LTHDT_LAB3.pdb

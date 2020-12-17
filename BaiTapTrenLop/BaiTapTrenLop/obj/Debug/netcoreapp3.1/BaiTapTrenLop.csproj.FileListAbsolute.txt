@@ -1,0 +1,13 @@
+E:\Lập trình hướng đối tượng\BaiTapTrenLop\BaiTapTrenLop\bin\Debug\netcoreapp3.1\BaiTapTrenLop.exe
+E:\Lập trình hướng đối tượng\BaiTapTrenLop\BaiTapTrenLop\bin\Debug\netcoreapp3.1\BaiTapTrenLop.deps.json
+E:\Lập trình hướng đối tượng\BaiTapTrenLop\BaiTapTrenLop\bin\Debug\netcoreapp3.1\BaiTapTrenLop.runtimeconfig.json
+E:\Lập trình hướng đối tượng\BaiTapTrenLop\BaiTapTrenLop\bin\Debug\netcoreapp3.1\BaiTapTrenLop.runtimeconfig.dev.json
+E:\Lập trình hướng đối tượng\BaiTapTrenLop\BaiTapTrenLop\bin\Debug\netcoreapp3.1\BaiTapTrenLop.dll
+E:\Lập trình hướng đối tượng\BaiTapTrenLop\BaiTapTrenLop\bin\Debug\netcoreapp3.1\BaiTapTrenLop.pdb
+E:\Lập trình hướng đối tượng\BaiTapTrenLop\BaiTapTrenLop\obj\Debug\netcoreapp3.1\BaiTapTrenLop.csprojAssemblyReference.cache
+E:\Lập trình hướng đối tượng\BaiTapTrenLop\BaiTapTrenLop\obj\Debug\netcoreapp3.1\BaiTapTrenLop.AssemblyInfoInputs.cache
+E:\Lập trình hướng đối tượng\BaiTapTrenLop\BaiTapTrenLop\obj\Debug\netcoreapp3.1\BaiTapTrenLop.AssemblyInfo.cs
+E:\Lập trình hướng đối tượng\BaiTapTrenLop\BaiTapTrenLop\obj\Debug\netcoreapp3.1\BaiTapTrenLop.csproj.CoreCompileInputs.cache
+E:\Lập trình hướng đối tượng\BaiTapTrenLop\BaiTapTrenLop\obj\Debug\netcoreapp3.1\BaiTapTrenLop.dll
+E:\Lập trình hướng đối tượng\BaiTapTrenLop\BaiTapTrenLop\obj\Debug\netcoreapp3.1\BaiTapTrenLop.pdb
+E:\Lập trình hướng đối tượng\BaiTapTrenLop\BaiTapTrenLop\obj\Debug\netcoreapp3.1\BaiTapTrenLop.genruntimeconfig.cache

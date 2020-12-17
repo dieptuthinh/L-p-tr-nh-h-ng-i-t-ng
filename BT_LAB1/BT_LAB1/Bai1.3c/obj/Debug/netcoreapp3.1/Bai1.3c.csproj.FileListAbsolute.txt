@@ -1,0 +1,12 @@
+E:\Lập trình hướng đối tượng\BT_LAB1\BT_LAB1\Bai1.3c\bin\Debug\netcoreapp3.1\Bai1.3c.exe
+E:\Lập trình hướng đối tượng\BT_LAB1\BT_LAB1\Bai1.3c\bin\Debug\netcoreapp3.1\Bai1.3c.deps.json
+E:\Lập trình hướng đối tượng\BT_LAB1\BT_LAB1\Bai1.3c\bin\Debug\netcoreapp3.1\Bai1.3c.runtimeconfig.json
+E:\Lập trình hướng đối tượng\BT_LAB1\BT_LAB1\Bai1.3c\bin\Debug\netcoreapp3.1\Bai1.3c.runtimeconfig.dev.json
+E:\Lập trình hướng đối tượng\BT_LAB1\BT_LAB1\Bai1.3c\bin\Debug\netcoreapp3.1\Bai1.3c.dll
+E:\Lập trình hướng đối tượng\BT_LAB1\BT_LAB1\Bai1.3c\bin\Debug\netcoreapp3.1\Bai1.3c.pdb
+E:\Lập trình hướng đối tượng\BT_LAB1\BT_LAB1\Bai1.3c\obj\Debug\netcoreapp3.1\Bai1.3c.AssemblyInfoInputs.cache
+E:\Lập trình hướng đối tượng\BT_LAB1\BT_LAB1\Bai1.3c\obj\Debug\netcoreapp3.1\Bai1.3c.AssemblyInfo.cs
+E:\Lập trình hướng đối tượng\BT_LAB1\BT_LAB1\Bai1.3c\obj\Debug\netcoreapp3.1\Bai1.3c.csproj.CoreCompileInputs.cache
+E:\Lập trình hướng đối tượng\BT_LAB1\BT_LAB1\Bai1.3c\obj\Debug\netcoreapp3.1\Bai1.3c.dll
+E:\Lập trình hướng đối tượng\BT_LAB1\BT_LAB1\Bai1.3c\obj\Debug\netcoreapp3.1\Bai1.3c.pdb
+E:\Lập trình hướng đối tượng\BT_LAB1\BT_LAB1\Bai1.3c\obj\Debug\netcoreapp3.1\Bai1.3c.genruntimeconfig.cache

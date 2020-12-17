@@ -1,0 +1,13 @@
+E:\Lập trình hướng đối tượng\BT_LAB1\BT_LAB1\Bai1.5a\bin\Debug\netcoreapp3.1\Bai1.5a.exe
+E:\Lập trình hướng đối tượng\BT_LAB1\BT_LAB1\Bai1.5a\bin\Debug\netcoreapp3.1\Bai1.5a.deps.json
+E:\Lập trình hướng đối tượng\BT_LAB1\BT_LAB1\Bai1.5a\bin\Debug\netcoreapp3.1\Bai1.5a.runtimeconfig.json
+E:\Lập trình hướng đối tượng\BT_LAB1\BT_LAB1\Bai1.5a\bin\Debug\netcoreapp3.1\Bai1.5a.runtimeconfig.dev.json
+E:\Lập trình hướng đối tượng\BT_LAB1\BT_LAB1\Bai1.5a\bin\Debug\netcoreapp3.1\Bai1.5a.dll
+E:\Lập trình hướng đối tượng\BT_LAB1\BT_LAB1\Bai1.5a\bin\Debug\netcoreapp3.1\Bai1.5a.pdb
+E:\Lập trình hướng đối tượng\BT_LAB1\BT_LAB1\Bai1.5a\obj\Debug\netcoreapp3.1\Bai1.5a.csprojAssemblyReference.cache
+E:\Lập trình hướng đối tượng\BT_LAB1\BT_LAB1\Bai1.5a\obj\Debug\netcoreapp3.1\Bai1.5a.AssemblyInfoInputs.cache
+E:\Lập trình hướng đối tượng\BT_LAB1\BT_LAB1\Bai1.5a\obj\Debug\netcoreapp3.1\Bai1.5a.AssemblyInfo.cs
+E:\Lập trình hướng đối tượng\BT_LAB1\BT_LAB1\Bai1.5a\obj\Debug\netcoreapp3.1\Bai1.5a.csproj.CoreCompileInputs.cache
+E:\Lập trình hướng đối tượng\BT_LAB1\BT_LAB1\Bai1.5a\obj\Debug\netcoreapp3.1\Bai1.5a.dll
+E:\Lập trình hướng đối tượng\BT_LAB1\BT_LAB1\Bai1.5a\obj\Debug\netcoreapp3.1\Bai1.5a.pdb
+E:\Lập trình hướng đối tượng\BT_LAB1\BT_LAB1\Bai1.5a\obj\Debug\netcoreapp3.1\Bai1.5a.genruntimeconfig.cache

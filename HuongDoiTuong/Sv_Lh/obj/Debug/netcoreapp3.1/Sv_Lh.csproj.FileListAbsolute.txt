@@ -1,0 +1,13 @@
+E:\Lập trình hướng đối tượng\HuongDoiTuong\Sv_Lh\bin\Debug\netcoreapp3.1\Sv_Lh.exe
+E:\Lập trình hướng đối tượng\HuongDoiTuong\Sv_Lh\bin\Debug\netcoreapp3.1\Sv_Lh.deps.json
+E:\Lập trình hướng đối tượng\HuongDoiTuong\Sv_Lh\bin\Debug\netcoreapp3.1\Sv_Lh.runtimeconfig.json
+E:\Lập trình hướng đối tượng\HuongDoiTuong\Sv_Lh\bin\Debug\netcoreapp3.1\Sv_Lh.runtimeconfig.dev.json
+E:\Lập trình hướng đối tượng\HuongDoiTuong\Sv_Lh\bin\Debug\netcoreapp3.1\Sv_Lh.dll
+E:\Lập trình hướng đối tượng\HuongDoiTuong\Sv_Lh\bin\Debug\netcoreapp3.1\Sv_Lh.pdb
+E:\Lập trình hướng đối tượng\HuongDoiTuong\Sv_Lh\obj\Debug\netcoreapp3.1\Sv_Lh.csprojAssemblyReference.cache
+E:\Lập trình hướng đối tượng\HuongDoiTuong\Sv_Lh\obj\Debug\netcoreapp3.1\Sv_Lh.AssemblyInfoInputs.cache
+E:\Lập trình hướng đối tượng\HuongDoiTuong\Sv_Lh\obj\Debug\netcoreapp3.1\Sv_Lh.AssemblyInfo.cs
+E:\Lập trình hướng đối tượng\HuongDoiTuong\Sv_Lh\obj\Debug\netcoreapp3.1\Sv_Lh.csproj.CoreCompileInputs.cache
+E:\Lập trình hướng đối tượng\HuongDoiTuong\Sv_Lh\obj\Debug\netcoreapp3.1\Sv_Lh.dll
+E:\Lập trình hướng đối tượng\HuongDoiTuong\Sv_Lh\obj\Debug\netcoreapp3.1\Sv_Lh.pdb
+E:\Lập trình hướng đối tượng\HuongDoiTuong\Sv_Lh\obj\Debug\netcoreapp3.1\Sv_Lh.genruntimeconfig.cache

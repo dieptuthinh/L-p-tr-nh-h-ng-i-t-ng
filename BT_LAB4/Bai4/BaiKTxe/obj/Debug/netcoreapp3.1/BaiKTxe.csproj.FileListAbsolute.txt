@@ -1,0 +1,13 @@
+E:\Lập trình hướng đối tượng\BT_LAB4\Bai4\BaiKTxe\bin\Debug\netcoreapp3.1\BaiKTxe.exe
+E:\Lập trình hướng đối tượng\BT_LAB4\Bai4\BaiKTxe\bin\Debug\netcoreapp3.1\BaiKTxe.deps.json
+E:\Lập trình hướng đối tượng\BT_LAB4\Bai4\BaiKTxe\bin\Debug\netcoreapp3.1\BaiKTxe.runtimeconfig.json
+E:\Lập trình hướng đối tượng\BT_LAB4\Bai4\BaiKTxe\bin\Debug\netcoreapp3.1\BaiKTxe.runtimeconfig.dev.json
+E:\Lập trình hướng đối tượng\BT_LAB4\Bai4\BaiKTxe\bin\Debug\netcoreapp3.1\BaiKTxe.dll
+E:\Lập trình hướng đối tượng\BT_LAB4\Bai4\BaiKTxe\bin\Debug\netcoreapp3.1\BaiKTxe.pdb
+E:\Lập trình hướng đối tượng\BT_LAB4\Bai4\BaiKTxe\obj\Debug\netcoreapp3.1\BaiKTxe.csprojAssemblyReference.cache
+E:\Lập trình hướng đối tượng\BT_LAB4\Bai4\BaiKTxe\obj\Debug\netcoreapp3.1\BaiKTxe.AssemblyInfoInputs.cache
+E:\Lập trình hướng đối tượng\BT_LAB4\Bai4\BaiKTxe\obj\Debug\netcoreapp3.1\BaiKTxe.AssemblyInfo.cs
+E:\Lập trình hướng đối tượng\BT_LAB4\Bai4\BaiKTxe\obj\Debug\netcoreapp3.1\BaiKTxe.csproj.CoreCompileInputs.cache
+E:\Lập trình hướng đối tượng\BT_LAB4\Bai4\BaiKTxe\obj\Debug\netcoreapp3.1\BaiKTxe.dll
+E:\Lập trình hướng đối tượng\BT_LAB4\Bai4\BaiKTxe\obj\Debug\netcoreapp3.1\BaiKTxe.pdb
+E:\Lập trình hướng đối tượng\BT_LAB4\Bai4\BaiKTxe\obj\Debug\netcoreapp3.1\BaiKTxe.genruntimeconfig.cache

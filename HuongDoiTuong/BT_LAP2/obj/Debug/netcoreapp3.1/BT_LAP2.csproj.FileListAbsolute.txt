@@ -1,0 +1,13 @@
+E:\Lập trình hướng đối tượng\HuongDoiTuong\BT_LAP2\bin\Debug\netcoreapp3.1\BT_LAP2.exe
+E:\Lập trình hướng đối tượng\HuongDoiTuong\BT_LAP2\bin\Debug\netcoreapp3.1\BT_LAP2.deps.json
+E:\Lập trình hướng đối tượng\HuongDoiTuong\BT_LAP2\bin\Debug\netcoreapp3.1\BT_LAP2.runtimeconfig.json
+E:\Lập trình hướng đối tượng\HuongDoiTuong\BT_LAP2\bin\Debug\netcoreapp3.1\BT_LAP2.runtimeconfig.dev.json
+E:\Lập trình hướng đối tượng\HuongDoiTuong\BT_LAP2\bin\Debug\netcoreapp3.1\BT_LAP2.dll
+E:\Lập trình hướng đối tượng\HuongDoiTuong\BT_LAP2\bin\Debug\netcoreapp3.1\BT_LAP2.pdb
+E:\Lập trình hướng đối tượng\HuongDoiTuong\BT_LAP2\obj\Debug\netcoreapp3.1\BT_LAP2.csprojAssemblyReference.cache
+E:\Lập trình hướng đối tượng\HuongDoiTuong\BT_LAP2\obj\Debug\netcoreapp3.1\BT_LAP2.AssemblyInfoInputs.cache
+E:\Lập trình hướng đối tượng\HuongDoiTuong\BT_LAP2\obj\Debug\netcoreapp3.1\BT_LAP2.AssemblyInfo.cs
+E:\Lập trình hướng đối tượng\HuongDoiTuong\BT_LAP2\obj\Debug\netcoreapp3.1\BT_LAP2.csproj.CoreCompileInputs.cache
+E:\Lập trình hướng đối tượng\HuongDoiTuong\BT_LAP2\obj\Debug\netcoreapp3.1\BT_LAP2.dll
+E:\Lập trình hướng đối tượng\HuongDoiTuong\BT_LAP2\obj\Debug\netcoreapp3.1\BT_LAP2.pdb
+E:\Lập trình hướng đối tượng\HuongDoiTuong\BT_LAP2\obj\Debug\netcoreapp3.1\BT_LAP2.genruntimeconfig.cache

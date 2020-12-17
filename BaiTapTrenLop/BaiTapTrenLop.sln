@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BaiTapTrenLop", "BaiTapTrenLop\BaiTapTrenLop.csproj", "{C8D24CD4-61F0-4E23-93DA-1E556997CCCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{1DBEBDD9-A35B-4421-99F4-D76E1CFF8261}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8D24CD4-61F0-4E23-93DA-1E556997CCCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8D24CD4-61F0-4E23-93DA-1E556997CCCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8D24CD4-61F0-4E23-93DA-1E556997CCCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8D24CD4-61F0-4E23-93DA-1E556997CCCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DBEBDD9-A35B-4421-99F4-D76E1CFF8261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DBEBDD9-A35B-4421-99F4-D76E1CFF8261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DBEBDD9-A35B-4421-99F4-D76E1CFF8261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DBEBDD9-A35B-4421-99F4-D76E1CFF8261}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA6E05E5-1BE9-49C8-982A-A8069EA1BEB9}
+	EndGlobalSection
+EndGlobal

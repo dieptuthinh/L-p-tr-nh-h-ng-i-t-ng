@@ -1,0 +1,13 @@
+E:\Lập trình hướng đối tượng\HuongDoiTuong\HuongDoiTuong\bin\Debug\netcoreapp3.1\NhapLieuHS.exe
+E:\Lập trình hướng đối tượng\HuongDoiTuong\HuongDoiTuong\bin\Debug\netcoreapp3.1\NhapLieuHS.deps.json
+E:\Lập trình hướng đối tượng\HuongDoiTuong\HuongDoiTuong\bin\Debug\netcoreapp3.1\NhapLieuHS.runtimeconfig.json
+E:\Lập trình hướng đối tượng\HuongDoiTuong\HuongDoiTuong\bin\Debug\netcoreapp3.1\NhapLieuHS.runtimeconfig.dev.json
+E:\Lập trình hướng đối tượng\HuongDoiTuong\HuongDoiTuong\bin\Debug\netcoreapp3.1\NhapLieuHS.dll
+E:\Lập trình hướng đối tượng\HuongDoiTuong\HuongDoiTuong\bin\Debug\netcoreapp3.1\NhapLieuHS.pdb
+E:\Lập trình hướng đối tượng\HuongDoiTuong\HuongDoiTuong\obj\Debug\netcoreapp3.1\NhapLieuHS.AssemblyInfoInputs.cache
+E:\Lập trình hướng đối tượng\HuongDoiTuong\HuongDoiTuong\obj\Debug\netcoreapp3.1\NhapLieuHS.AssemblyInfo.cs
+E:\Lập trình hướng đối tượng\HuongDoiTuong\HuongDoiTuong\obj\Debug\netcoreapp3.1\NhapLieuHS.csproj.CoreCompileInputs.cache
+E:\Lập trình hướng đối tượng\HuongDoiTuong\HuongDoiTuong\obj\Debug\netcoreapp3.1\NhapLieuHS.dll
+E:\Lập trình hướng đối tượng\HuongDoiTuong\HuongDoiTuong\obj\Debug\netcoreapp3.1\NhapLieuHS.pdb
+E:\Lập trình hướng đối tượng\HuongDoiTuong\HuongDoiTuong\obj\Debug\netcoreapp3.1\NhapLieuHS.genruntimeconfig.cache
+E:\Lập trình hướng đối tượng\HuongDoiTuong\HuongDoiTuong\obj\Debug\netcoreapp3.1\NhapLieuHS.csprojAssemblyReference.cache

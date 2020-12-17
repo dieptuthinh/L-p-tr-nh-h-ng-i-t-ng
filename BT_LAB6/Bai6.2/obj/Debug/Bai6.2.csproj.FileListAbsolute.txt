@@ -1,0 +1,10 @@
+E:\Lập trình hướng đối tượng\BT_LAB6\Bai6.2\bin\Debug\Bai6.2.exe.config
+E:\Lập trình hướng đối tượng\BT_LAB6\Bai6.2\bin\Debug\Bai6.2.exe
+E:\Lập trình hướng đối tượng\BT_LAB6\Bai6.2\bin\Debug\Bai6.2.pdb
+E:\Lập trình hướng đối tượng\BT_LAB6\Bai6.2\obj\Debug\Bai6.2.csprojAssemblyReference.cache
+E:\Lập trình hướng đối tượng\BT_LAB6\Bai6.2\obj\Debug\Bai6._2.Properties.Resources.resources
+E:\Lập trình hướng đối tượng\BT_LAB6\Bai6.2\obj\Debug\Bai6.2.csproj.GenerateResource.cache
+E:\Lập trình hướng đối tượng\BT_LAB6\Bai6.2\obj\Debug\Bai6.2.csproj.CoreCompileInputs.cache
+E:\Lập trình hướng đối tượng\BT_LAB6\Bai6.2\obj\Debug\Bai6.2.exe
+E:\Lập trình hướng đối tượng\BT_LAB6\Bai6.2\obj\Debug\Bai6.2.pdb
+E:\Lập trình hướng đối tượng\BT_LAB6\Bai6.2\obj\Debug\Bai6._2.Form1.resources
